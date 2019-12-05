@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Chase's Resume</title>
+    <link rel="stylesheet" href="Resume.css">
+  </head>
+
+
+<div class="divLSide">
+<img class="imgMain" src="resumepic.jpg" alt=""><br>
+
+
+<header class="ph1">
+  About Me <br>
+</header>
+
+<body class="b1">
+  &nbsp; &nbsp; My name is Chase Waldo and I Grew up around Seattle Washington. <br>
+  Im very adventrous and cuirious. I have traveled quite alot and have been <br>
+  introduced to many cultures. I can speak two other languages but they <br>
+  are not fully fluent yet. <br><br>
+
+  Sports:<br><br>
+  <button class="bt1" onclick="myfunction(mountains,mountain)" id="mountains">Mountaineering</button>
+  <button class="bt1" onclick="myfunction(RC,rc)" id="RC">Rock Climbing</button>
+  <button class="bt1" onclick="myfunction(Basketball,bball)" id="Basketball">  Basket Ball  </button><br><br>
+  <button class="bt1" onclick="myfunction(snowboarding,sb)" id="snowboarding">snowboarding</button>
+  <button class="bt1" onclick="myfunction(skateboarding,skat)" id="skateboarding">skateboarding</button>
+  <button class="bt1" onclick="myfunction(golf,gf)" id="golf">  Golf  </button>
+  <button class="bt1" onclick="myfunction(hunting/fishing,hf)" id="hunting/fishing">  Hunting/Fishing  </button>
+
+
+
+</body>
+
+
+<header class="ph1">
+  Contact Info <br>
+</header>
+
+<body class="b1">
+Name: Chase Waldo <br><br>
+Phone Number: 425-923-5969 <br><br>
+Email: chasewaldo1990@gmail.com
+</body>
+
+<header class="ph1">
+  Skills <br>
+</header>
+
+<body class="b1">
+Computers : Building, Fixing, Diagnostics, Arduino, HTML, CSS, JavaScript <br><br>
+Construction :Welding (Stick(6011,6012,6013,6022,7018),MIG (Flux Core,308LSI),<br> and some TIG, Carpentry, Blueprints, Telehandler, Boomtruck, skidsteer, Arial Lift  <br><br>
+Electronics : soldering, schematics, Counters, Timers, Relays(SPDT,DPDT),<br> Sensors (photo, sonar, pressure, temperature) and etc <br><br>
+Machining : Mill and Lathe using metals, polymers and woods <br><br>
+Leading : Foreman and a strong honest leader that gets projects done on time
+
+
+</body>
+
+</div>
+
+
+
+
+
+
+  <div class="divRSide">
+    <br><br><br><br>
+
+<header class="rHeader">
+
+Education
+
+</header>
+
+<body>
+High school: Diploma from Granite Falls High School in Washington State <br><br>
+College: Associates in science from Everett Community College <br><br>
+Carpentry: Minnesota Capernty Union School <br><br>
+
+</body>
+
+<header class="rHeader">
+
+Experience
+
+</header>
+
+<body>
+  2006-2008: FSX.inc - Cleaning Diesel particulate Filters <button class="bt1" onclick="myfunction(FP,mountain)" id="FP">Fsx Projects</button>  <br><br>
+  2008-2010: All Comp. Roofing - Roofer/Carpenter <button class="bt1" onclick="myfunction(RP,mountain)" id="RP">Roofing Projects</button><br><br>
+  2010-2012: Lunda Contruction - Carpenter/Heavy Equipment/Crane Signaler <button class="bt1" onclick="myfunction(Lunda,mountain)" id="Lunda">Lunda Projects</button><br><br>
+  2012-2014: North Coast Iron Corp. - Welder/Steel Erector <button class="bt1" onclick="myfunction(NCIC,mountain)" id="NCIC">NCIC Projects</button><br><br><br><br>
+
+  ____Internships While in School____<br><br><br><br>
+
+  2016 summer: Bottle Bay Industries-Research and Design on DOC Catalyst <button class="bt1" onclick="myfunction(DOC,burn)" id="DOC">BBI Project 1</button><br><br>
+  2017 summer: Bottle Bay Industries-Research and Design on Ultrasonic Tank Cleaning <button class="bt1" onclick="myfunction(UST,sonic)" id="UST">BBI Project 2</button><br><br>
+  2018 summer: Kiewit-Equipment Engineer <button class="bt1" onclick="myfunction(kiewit,pkiewit)" id="kiewit">Kiewit Project</button><br><br><br><br><br><br>
+
+
+</body>
+
+
+<div class="bottomheaderL">
+  <header class="rHeaderL">
+
+  Professional Skills <br>
+
+  </header>
+
+  <body>
+
+    Time-Awareness <br><br>
+    Planning <br><br>
+    Understanding extremity and the urgency of a situation <br><br>
+    When to encourage or discourage a situation <br><br>
+    High Work Ethic <br><br>
+    Always on time<br><br>
+     MS Excel
+
+  </body>
+
+</div>
+
+
+
+<div class="bottomheaderR">
+  <header class="rHeaderR">
+
+  Personal Skills
+
+  </header>
+
+<body>
+<br>
+ Listening <br><br>
+ Self-Motivating <br><br>
+ Motivating <br><br>
+ Disciplining <br><br>
+ Encourging <br><br>
+
+
+</body>
+
+</div>
+
+
+
+
+
+
+
+  </div>
+
+
+
+<script src="Resume.js" charset="utf-8"></script>
+
+</html>
